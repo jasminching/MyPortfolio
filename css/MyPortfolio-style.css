@@ -7,7 +7,7 @@
 }
 
 section {
-    background-color: teal;
+    background-color: rgb(191, 235, 235);
     border: 1px solid black;
     height: 200px;
     width: 47%;
@@ -28,3 +28,9 @@ aside {
     border: 1px dotted black;
     height: 100px;}
 
+.image1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
