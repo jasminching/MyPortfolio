@@ -1,0 +1,33 @@
+
+#Name {
+    background-color: mintcream;
+    border: 1px solid black;
+    height: 100px;
+    text-align: center;
+}
+
+section {
+    background-color: teal;
+    border: 1px solid black;
+    height: 200px;
+    width: 47%;
+    display: inline-block;
+}
+
+aside {
+    background-color: aquamarine;
+    border: 1px solid black;
+    height: 200px;
+    width: 51%;
+    display: inline-block;
+}
+
+
+.Thirdbox {
+    background-color: grey;
+    border: 1px dotted black;
+    height: 100px;}
+
+.image {
+    
+}
