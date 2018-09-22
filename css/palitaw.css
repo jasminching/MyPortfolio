@@ -1,0 +1,40 @@
+body { 
+	background-color: #EAFAF1  ;
+	color: #34495E;
+	font-size: 24px;
+	font-family: comic sans;
+}
+
+.header{
+	background-color: LightSalmon;
+	padding:40px;
+	color: #800000;
+	text-align:center;
+}
+
+
+.Panuntunan{
+	background-color: grey;
+	padding: 5px;
+	color: white;
+	text-align: center; ;
+}
+
+.Rule1{
+	color: black;
+}
+
+.Rule2{
+	color: black;
+}
+
+.Rule3{
+	color: black;
+}
+
+ .HumanNature {
+ 	background-color: grey;
+	padding: 5px;
+	color: white;
+	text-align: center; 
+}
